@@ -7,9 +7,11 @@ using System.Web.Http;
 
 namespace BoundedContext1.Controllers
 {
+   
     public class ValuesController : ApiController
     {
         // GET api/values 
+     
         public IEnumerable<string> Get()
         {
             return new string[] { "from bc1" };

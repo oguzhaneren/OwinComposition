@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedContext2", "BoundedC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinCompositionHost", "OwinCompositionHost\OwinCompositionHost.csproj", "{32BA9920-EFE5-4315-A30A-57605363FC06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{11A50805-EEAD-4B78-B158-4123501129FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{32BA9920-EFE5-4315-A30A-57605363FC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32BA9920-EFE5-4315-A30A-57605363FC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32BA9920-EFE5-4315-A30A-57605363FC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A50805-EEAD-4B78-B158-4123501129FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A50805-EEAD-4B78-B158-4123501129FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A50805-EEAD-4B78-B158-4123501129FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A50805-EEAD-4B78-B158-4123501129FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
