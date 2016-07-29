@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedContext1", "BoundedContext1\BoundedContext1.csproj", "{211EE0EA-215A-4444-A171-ECC544CE9829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedContext2", "BoundedContext2\BoundedContext2.csproj", "{1C5FB7F1-1F60-4D1A-B0BD-EAFD16E0C2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinCompositionHost", "OwinCompositionHost\OwinCompositionHost.csproj", "{32BA9920-EFE5-4315-A30A-57605363FC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211EE0EA-215A-4444-A171-ECC544CE9829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211EE0EA-215A-4444-A171-ECC544CE9829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211EE0EA-215A-4444-A171-ECC544CE9829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211EE0EA-215A-4444-A171-ECC544CE9829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5FB7F1-1F60-4D1A-B0BD-EAFD16E0C2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5FB7F1-1F60-4D1A-B0BD-EAFD16E0C2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5FB7F1-1F60-4D1A-B0BD-EAFD16E0C2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5FB7F1-1F60-4D1A-B0BD-EAFD16E0C2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BA9920-EFE5-4315-A30A-57605363FC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BA9920-EFE5-4315-A30A-57605363FC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BA9920-EFE5-4315-A30A-57605363FC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BA9920-EFE5-4315-A30A-57605363FC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
